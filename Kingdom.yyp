@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1603f3d4-7c43-45b6-9f31-dd8717da787d",
+            "Value": {
+                "id": "a2c8d1f3-83fd-4085-804e-c961cc56b6d3",
+                "resourcePath": "sprites\\MalePremade\\MalePremade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "176b778e-deb7-4ccf-b3e3-a6946835575c",
             "Value": {
                 "id": "79cf3fb2-3f91-4cdb-8c50-6149bac87876",
